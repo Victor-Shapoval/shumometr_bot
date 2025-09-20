@@ -1,0 +1,1 @@
+# shumometr_bot
